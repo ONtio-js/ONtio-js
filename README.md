@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Javascripts .
 - 💞️ I’m looking to collaborate on Web development
     Web app and software development 
-- 📫 How to reach me on twitter @TheophilusOnye9 
+- 📫 How to reach me:
+twitter @TheophilusOnye9 
+
+WhatsApp : 08118637072
 
 <!---
 ONtio-js/ONtio-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
