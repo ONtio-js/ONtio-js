@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ONtio-js
-- 👀 I’m interested in js,react.js,node.js
+- 👀 I’m interested in web deveelopment using php,mysql,html,css,js
 - 🌱 I’m currently learning Javascripts .
 - 💞️ I’m looking to collaborate on Web development
     Web app and software development 
