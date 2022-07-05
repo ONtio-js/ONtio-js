@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ONtio-js
-- 👀 I’m interested in web deveelopment using php,mysql,html,css,js
-- 🌱 I’m currently learning Javascripts .
+- 👀 I’m interested in web deveelopment using python,mysql,html,css,js
+- 🌱 I’m currently learning python .
 - 💞️ I’m looking to collaborate on Web development
     Web app and software development 
 - 📫 How to reach me:
