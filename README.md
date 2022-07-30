@@ -47,6 +47,7 @@
 </p>
 <h5>Operating systems </h5>
 <p>
+  <img alt="WINDOWS" src="https://img.shields.io/badge/windows%20-%2300599windows.svg?&style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt ="LINUX" src="https://img.shields.io/badge/linux%20-%23121011.svg?&style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
