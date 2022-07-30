@@ -45,12 +45,13 @@
 </p>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONtio-js&theme=radical)](https://github.com/ONtio-js/github-readme-stats)
-
+<p>
 
 ![ONtio-js's github stats](https://github-readme-stats.vercel.app/api?username=ONtio-js&show_icons=true&theme=radical)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONtio-js&theme=radical)](https://github.com/ONtio-js/github-readme-stats) 
+
+</p>
+
 
 <!---
 ONtio-js/ONtio-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
