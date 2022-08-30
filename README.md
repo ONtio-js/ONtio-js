@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Nkwuda theophilus </h1>
+<h1 align='center'> Hi there 👋, I'm Theophilus Onyebuchi </h1>
 
 <p>
   I'm an adept and personable software engineer from Nigeria.
