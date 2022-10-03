@@ -1,5 +1,5 @@
 <h1 align='center'> Hi there 👋, I'm Theophilus Onyebuchi </h1>
-
+<div><img src="https://raw.githubusercontent.com/nirala96/nirala96/master/70804f7e25b11f29db904f2fa7b4cd9d.gif"></div>
 <p>
   I'm an adept and personable software engineer from Nigeria.
 </p>
